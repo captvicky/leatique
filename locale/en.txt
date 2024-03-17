@@ -1,0 +1,64 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_03A05D8E_7E5D_1608_41D7_12A99D37B11A.source = https://www.instagram.com/leatique_deco/
+PopupWebFrameBehaviour_43EF628F_7E6D_3207_41C4_6688D8A9BDD8.url = https://www.leatique.com/cutlery
+PopupWebFrameBehaviour_49BA1ED7_7E6F_7218_41C3_D8413D822A78.url = https://www.leatique.com/product-page/bohemia-retro-lamp-po811
+PopupWebFrameBehaviour_1D5DECE5_7E5B_363B_41B7_908E148E0DB1.url = https://www.leatique.com/product-page/butterfly-basin-hd74
+PopupWebFrameBehaviour_312D23DC_7E57_F208_41CA_786C8A90BA24.url = https://www.leatique.com/product-page/fajrina-standing-lamp-po493
+PopupWebFrameBehaviour_2386E1E5_7E5B_0E3B_41B4_577F4B974ED8.url = https://www.leatique.com/product-page/glamor-gold-sink-hd04
+PopupWebFrameBehaviour_1CF3E3CC_7E5B_1208_41A6_02EB48B2CF05.url = https://www.leatique.com/product-page/glamor-gold-sink-hd04
+PopupWebFrameBehaviour_54176F3A_7E75_1209_41C8_32418206CF73.url = https://www.leatique.com/product-page/gold-glamor-wall-decoration-pt166
+PopupWebFrameBehaviour_6D750E62_7E2B_1239_41C5_C73E1C354747.url = https://www.leatique.com/product-page/han-ji-pyeong-table-lamp
+PopupWebFrameBehaviour_4B9875AE_7E6D_7609_41D1_DD3165F14FD6.url = https://www.leatique.com/product-page/kalla-mirror-mo12
+PopupWebFrameBehaviour_4F4502ED_7E6B_120B_41D6_42DA0E4CCE7B.url = https://www.leatique.com/product-page/rhona-chandelier-rss14
+PopupWebFrameBehaviour_36762A73_7E55_1218_41D9_3A3EED359B56.url = https://www.leatique.com/product-page/rope-chandelier-po564
+PopupWebFrameBehaviour_2CA12F95_7E57_7218_41DA_95B5FB88C6FB.url = https://www.leatique.com/product-page/scandinavian-wall-decor-dd01
+PopupWebFrameBehaviour_3E0C6ABD_7E6D_3208_41D0_8C36A9B52B28.url = https://www.leatique.com/product-page/zetta-chandelier-po433
+
+## Hotspot
+
+### Text
+QuadHotspotPanoramaOverlayTextImage_16A9325B_7E5D_3208_41D8_9437631BC006.text = INSTAGRAM
+
+### URL
+overlay_6D19F5C7_7E5D_F607_41C1_A9FC19918F5B.url = //www.youtube.com/embed/zdXyDo8Ywl0?si=LepH2o7m49UcMxbZ
+
+## Media
+
+### Audio
+audiores_6DE7AB29_7E55_1208_4195_068B5473F1AA.mp3Url = media/audio_732D2EB1_7E35_7218_41C6_D870DB24E65A_en.mp3
+
+### Image
+imlevel_FDB11484_7E5B_36F8_41D3_F17079379D0C.url = media/panorama_7265A820_7E2B_3E38_41D4_7D2E19EC4905_HS_oacw9y2h_en.png
+
+### Title
+panorama_7265A820_7E2B_3E38_41D4_7D2E19EC4905.label = 1
+panorama_74F6C313_7E2B_1218_41D7_26BB64C0FF71.label = 2
+panorama_74F1DCFD_7E2B_160B_41D7_916E0A0C5FC9.label = 3
+panorama_74F106C1_7E2B_7278_4198_574A2F070E50.label = 4
+panorama_74F1C12C_7E2B_0E08_41D1_7B23B1508918.label = 5
+panorama_74F27B12_7E2B_1218_41C9_7FFEEC76F620.label = Fasad
+video_6B74B496_7E75_7618_41B2_6A703E42FDF2.label = Lampu Gantung Import yg Jarang Dijual di Indonesia
+video_6B9D2410_7E7B_1618_41D0_A90DD7FBC9A6.label = Open PO Dekorasi Rumah Import Telah Dibuka Kembali
+video_6BEB52A4_7E7F_1238_41C3_9BC9BF37E2C2.label = packing kayu Leatique (Teaser Bumper)
+
+### Video
+videolevel_7E7A5985_7E35_3EF8_41D9_C04BD5B2948D.url = media/video_6B74B496_7E75_7618_41B2_6A703E42FDF2_en.mp4
+videolevel_7E7A5985_7E35_3EF8_41D9_C04BD5B2948D.posterURL = media/video_6B74B496_7E75_7618_41B2_6A703E42FDF2_poster_en.jpg
+videolevel_7E7A59B4_7E35_3E18_41DD_3FEE6A684A26.url = media/video_6B9D2410_7E7B_1618_41D0_A90DD7FBC9A6_en.mp4
+videolevel_7E7A59B4_7E35_3E18_41DD_3FEE6A684A26.posterURL = media/video_6B9D2410_7E7B_1618_41D0_A90DD7FBC9A6_poster_en.jpg
+videolevel_7E7A59D7_7E35_3E07_41C8_B9F33B4643C3.url = media/video_6BEB52A4_7E7F_1238_41C3_9BC9BF37E2C2_en.mp4
+videolevel_7E7A59D7_7E35_3E07_41C8_B9F33B4643C3.posterURL = media/video_6BEB52A4_7E7F_1238_41C3_9BC9BF37E2C2_poster_en.jpg
+
+### Video Subtitles
+
+## Tour
+
+### Description
+tour.description = Virtual Tour Leatique Showroom and Warehouse di Bandung, Indonesia.
+
+### Title
+tour.name = Leatique Showroom & Warehouse
